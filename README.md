@@ -1,7 +1,7 @@
 ## https://app.patika.dev/courses/react/odev5 kapsamında yapıldı.
 www.patika.dev
 
-## Uygulamanın kaynak kodlarına erişmek için [tıklayın] (https://drive.google.com/drive/folders/1bOYL7qxqD6VmANC7O-woqni5EFclpmJO)
+Uygulamanın kaynak kodlarına erişmek için [tıklayın](https://drive.google.com/drive/folders/1bOYL7qxqD6VmANC7O-woqni5EFclpmJO)
 
 Emoji Search
 ---
